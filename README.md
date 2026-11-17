@@ -27,5 +27,21 @@
   <img width="847" height="322" alt="image" src="https://github.com/user-attachments/assets/475ca137-0085-440f-9d41-97a624573a82" />
 
 - Q2 all test cases
+  The number is lower than 10
   
-- Q3 single click and double click
+  <img width="672" height="208" alt="image" src="https://github.com/user-attachments/assets/809a18bd-d888-49d4-b89a-c94ef810f086" />
+
+  The number is higher than 10
+
+  <img width="767" height="210" alt="image" src="https://github.com/user-attachments/assets/21dc8056-a6ae-4418-b57b-d542b71e18d4" />
+
+  The number is equal to 10
+
+  <img width="710" height="191" alt="image" src="https://github.com/user-attachments/assets/92eabc7a-3b73-41f0-b97a-70846faa6556" />
+
+- Q3
+
+  <img width="757" height="257" alt="image" src="https://github.com/user-attachments/assets/b90c23c3-ae5e-4971-a54d-004e0a5f0278" />
+
+  
+  
