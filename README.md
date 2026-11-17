@@ -17,6 +17,12 @@
    Q3: click "Generate" twice to confirm no duplicates.
 
 ## Screenshots
-- Q1 before/after
+- Q1
+  before
+  <img width="858" height="317" alt="image" src="https://github.com/user-attachments/assets/286b3fec-8071-4b84-9e2c-c74bdc5a67be" />
+  after
+  <img width="847" height="322" alt="image" src="https://github.com/user-attachments/assets/475ca137-0085-440f-9d41-97a624573a82" />
+
 - Q2 all test cases
+  
 - Q3 single click and double click
