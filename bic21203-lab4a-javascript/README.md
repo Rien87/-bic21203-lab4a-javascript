@@ -19,4 +19,4 @@
 ## Screenshots
 - Q1 before/after
 - Q2 all test cases
-- Q3 single click and double click
+- Q3 
